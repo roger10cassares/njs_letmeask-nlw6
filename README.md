@@ -40,3 +40,6 @@ recurso de cria'cao de nova perguntas. Utiliza'cao de barras para entrar em nive
 salva info da pergunta
 observacao das perguntas no firebase, quando qualquer informa'cao mudar, aparecer em tela
 eventos do firebase que pdemos ouvur para otimizar quando tiver uma loista de dados maior
+
+
+24-06-2021 Pause at Aula_03: ok
