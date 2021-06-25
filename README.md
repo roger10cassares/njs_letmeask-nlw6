@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+21-06-2021 Pause at Aula_02: 21:17
+22-06-2021 Pause at Aula_02: 56:25
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Recap aula 02
+Primeiro com todo o html e depois o css. Estrutura na tela e depois o Css
+No react, a importa'cao de imagens e css deve ser por dentro do componente
+Uso do sass -> scss
+Cria'c~ao de rotas de aplica'cao
+Navega'cao de duas maneiras: Link e useHistory react-router-dom
+Auth com o firevbase e usando Contextos
+Cria'cao de Contexto de Aplica;cao pelo App
+Login google, type, usar usuario no State
+Usando infos em dois lugares
+Refatorar contexto em um lugar separado e cra'cao do useHook
 
-In the project directory, you can run:
+23-06-2021 Pause at Aula_03: 12:00
 
-### `yarn start`
+react-hot-toast
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+const obj = {
+    "name": "Roger",
+    "age": 28
+}
 
-### `yarn test`
+Object.entries(obj) // [ [ "name", "Roger" ], [ "age", 28 ] ]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Recap Aula_03
+Usar recurso firebase
+NewRoom Cria'cao da sala
+Formularios no react, ref no db e push para salvar uma info dentro de uma lista no firebase
+uma lista de sala e la colocamos uma nova sala
+Info unica q nao seja lista, usa-se set ao ives de push
+key, redireciona o usuario
+vErificacao sala exite antes de deixar o usuario entratr na sala
+auth e rules no firebase
+html css pagequestions
+recurso de cria'cao de nova perguntas. Utiliza'cao de barras para entrar em niveis dnetro de uma lista
+salva info da pergunta
+observacao das perguntas no firebase, quando qualquer informa'cao mudar, aparecer em tela
+eventos do firebase que pdemos ouvur para otimizar quando tiver uma loista de dados maior
