@@ -54,3 +54,7 @@ Aula 04 ok
 
 Aula 05
 25:44
+plano gratuito ateh 100 pessoas
+plano blaze, mesmo sem cutos, muitos limites gratuito a mais
+
+hosting firebase --> nothing wth backend

@@ -91,7 +91,7 @@ export function AdminRoom() {
                                 isAnswered={question.isAnswered}
                                 isHighlighted={question.isHighlighted}
                             >
-                                {!question.isHighlighted && (
+                                {!question.isAnswered && (
                                     <>
                                         <button
                                             type="button"
