@@ -43,3 +43,6 @@ eventos do firebase que pdemos ouvur para otimizar quando tiver uma loista de da
 
 
 24-06-2021 Pause at Aula_03: ok
+
+
+modal -> react-modal git hub

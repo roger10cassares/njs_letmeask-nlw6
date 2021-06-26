@@ -9,8 +9,21 @@
             display: flex;
             justify-content: space-between;
 
-            >img {
+            > img {
                 max-height: 45px;
+            }
+
+            > div {
+                display: flex;
+                gap: 16px;
+
+                button {
+                    height: 40px;
+                }
+
+                // caniuse.com
+                // gap property -> add space between displayflex or grid
+
             }
         }
     }
@@ -92,6 +105,10 @@
                     cursor: pointer;
                 }
             }
+        }
+
+        .question-list {
+            margin-top: 32px;
         }
     }
 }
