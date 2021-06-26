@@ -46,3 +46,11 @@ eventos do firebase que pdemos ouvur para otimizar quando tiver uma loista de da
 
 
 modal -> react-modal git hub
+
+
+
+Aula 04 ok
+
+
+Aula 05
+25:44
