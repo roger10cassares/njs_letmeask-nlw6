@@ -6,6 +6,9 @@
 
 ###### by [roger10cassares](https://github.com/roger10cassares/)
 
+> Arise, shine, for your light has come,
+>   and the glory of the Lord has risen upon you. - Isaiah 60:1 
+
 
 
 This is a ReactJs Project Developing During the 6th Edition of the Next Level Week event promoted by [Rocketseat](https://rocketseat.com.br/)
